@@ -3,9 +3,9 @@ Student of the Skolkovo Institute of Science and Technology
 
 How to contact me: just send email to everest1000@list.ru or write in [telegram](https://t.me/D3_14)
 
-Еducation: Bachelor's degree in 11.03.02 Information and Communication Technologies and Networks, and expected Master's degree in 09.04.01 Informatics and Computer Engineering
+Education: Bachelor's degree in 11.03.02 Information and Communication Technologies and Networks, and expected Master's degree in 09.04.01 Informatics and Computer Engineering
 
-# Еech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
